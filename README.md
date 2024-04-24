@@ -35,7 +35,7 @@ Welcome to the CRM (Customer Relationship Management) app! This application is d
 To set up the project locally, follow these steps:
 
 1. Clone the repository:
-   ``` git clone https://github.com/your/repository.git ```
+   ``` git clone https://github.com/shoplikov/CRM-project.git ```
 
 2. Apply database migrations: ``` python manage.py migrate ``` 
 
