@@ -36,3 +36,9 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ``` git clone https://github.com/your/repository.git ```
+
+2. Apply database migrations: ``` python manage.py migrate ``` 
+
+3. Start the server: ``` python manage.py runserver ```
+
+4. Access the application at http://localhost:8000.
